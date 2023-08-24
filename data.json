@@ -1,0 +1,64 @@
+[{
+    "name":"Jurasic world",
+    "imdb": 9.3,
+    "date": "2022",
+    "sposter": "img/jurassic world.jpg",
+    "bposter":"img/jurassic world1.jpg",
+    "genre":"Action",
+    "type":"movie"
+   
+ 
+    
+},
+{
+    "name":"Omg 2",
+    "imdb": 8.3,
+    "date": "2023",
+    "sposter": "img/OMG_2_–_Oh_My_God!_2_poster.jpg",
+    "bposter":"img/omgbposter1.avif",
+    "genre":"Comedy, Drama",
+    "type": "movie",
+    "url":"omg2.html"
+   
+    
+
+},
+{
+    "name":"Bholaa",
+    "imdb": 6.0,
+    "date": "2023",
+    "sposter": "img/Bholaasposter.webp",
+    "bposter":"img/Bholaabposter.avif",
+    "genre":"Action, Adventure, Crime",
+    "type": "series",
+    "url":"Bholaa.html"
+  
+   
+
+},
+{
+    "name":"Bawaal",
+    "imdb": 6.7,
+    "date": "2023",
+    "sposter": "img/Bawaalsposter1.jpg",
+    "bposter":"img/Bawaalbposter.jpg",
+    "genre":"Action, Drama, Romance",
+    "type":"series",
+    "url":"bawal.html"
+   
+        
+
+},
+{
+    "name":"IB-71",
+    "imdb": 7.3,
+    "date": "2023",
+    "sposter": "img/IB-71sposter.jpg",
+    "bposter":"img/IB-71bposter.jpg",
+    "genre":"Action, Thriller",
+    "type":"movie",
+    "url":"IB-71.html"
+    
+    
+
+}]
